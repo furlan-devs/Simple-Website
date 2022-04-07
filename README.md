@@ -37,7 +37,7 @@ Criticism and tips are always welcome!<br><br>
 ![Screenshot_7](https://github.com/furlan-devs/imagens/blob/1bc3866f58525ac5817687e64d2492032bf03f0e/contact-page.png)<br>
 <br>
 
-<h2>Referencias/Referencies:</h2>
+<h2>Referencias de Estudo/Study Referencies:</h2>
 - Origamid<br>
 
 
