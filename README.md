@@ -1,13 +1,13 @@
 # Website-SeuEspaco-CSS-HTML  /  Seu Espaço
 
 Website criado para treinar técnicas com HTML e CSS<br>
-Focando em utilizar TAGs principais, menu e redirecionamento.<br>
+Focando em utilizar as principais tags html.<br>
 Críticas e dicas são sempre bem vindas!
 
 ---------------------<br>
 
 Website created to train techniques with HTML and CSS<br>
-Focusing on using main tags, menu and redirection.<br>
+Focusing on using main tags.<br>
 Criticism and tips are always welcome!<br><br>
 
 # Requisitos/Requirements
